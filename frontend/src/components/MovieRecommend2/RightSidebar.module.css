@@ -1,0 +1,46 @@
+.rightSidebar
+{
+    margin: 0 5% 0 5%;   
+    color: white;
+    font-weight: 700; 
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.genres
+{
+    width: 100%;
+    display: grid;
+    grid-template-columns :50% 50%;
+}
+
+.genre
+{
+    text-align: center;
+}
+
+.genreRetrieve
+{
+    display: flex;
+    justify-content: center;
+}
+
+.genreInput
+{
+    width: 50%;
+    font-size: 20px;
+    color: #555;
+    border-radius: 20px 0 0 20px;
+    border: none;
+    outline: none;
+}
+
+.genreButton
+{
+    height: 26px;
+    border: none;
+    border-radius: 0 20px 20px 0;
+}

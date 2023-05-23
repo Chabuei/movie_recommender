@@ -1,0 +1,91 @@
+.leftSidebar
+{
+    margin: 0% 5% 0 5%;   
+}
+
+.subLeftSidebar
+{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.numberOfSelectedMovies
+{
+    flex: 1;
+    text-align: center;
+}
+
+.currentFigure
+{    
+    font-weight: 700;
+    color: white;
+}
+
+.operaions
+{
+    flex: 3;
+    display: flex;
+    justify-content: center;
+}
+
+.deleteAllButton,
+.recommendButton
+{
+    display: inline-block;
+    width: 100px;
+    font-weight: 700;
+    margin: 1px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+    border-right: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.deleteAllButton:hover,
+.recommendButton:hover
+{
+    border: 1px solid #E74C3C;
+    background-color: rgba(231, 76, 60, 0.5);
+}
+
+.selectedMovieCard
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+    border-right: 1px solid rgba(255, 255, 255, 0);    
+}
+
+.selectedMovieCard:hover
+{
+    border: 1px solid #E74C3C;
+    background-color: rgba(231, 76, 60, 0.5);
+}
+
+.subMovieTitle
+{
+    color: white;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.deleteButton
+{
+    position: relative;
+    left: 5px;
+    color: white;
+    font-weight: 700;
+    background-color: #E74C3C;
+    border-radius: 50%;
+    border: none;
+}
