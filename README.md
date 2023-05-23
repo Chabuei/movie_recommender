@@ -20,6 +20,7 @@ Python 3.9.0<br>
 1: 映画名検索機能やジャンル検索機能を使ってお好みの映画をクリックしましょう。<br>
 2: 選んだ映画は左サイドバーにあるリストに登録されます。もし間違えてリストに追加してしまった場合はXボタンを押すと削除できます。<br>
 3: お好みの映画を選んだらRecommendボタンを押しましょう。すると、あなたの好みに合った映画をItem2Vecが推薦してくれます。(※初回レコメンドのみ10秒ほどロード時間がかかりま す。)<br>
+4: ヘッダのHomeをクリックするとホーム画面、Recommendedをクリックするとこれまでにレコメンドされた結果を確認できます。
 
 1: Please find and select your favorite movies and then click it.<br>
 2: If you click a movie poster, it is registered in the list in left sidebar. If you accidently register a movie, you can remove it by clicking X button.<br>
