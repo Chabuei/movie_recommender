@@ -30,7 +30,7 @@ Python 3.9.0<br>
 The frontend and backend of this website is implemented by Next.js, The combination of Node.js and Python respectively. The frontend can reveice and display recommendations via the trigger of Item2Vec by Node.js. And also, I connected Lambda to RDS and ECS to use MySQL.
 
 性能に関しては、Precision@30(推薦システムが3あるユーザに30個のアイテムを推薦したとき、その中に含まれるユーザが本当に気に入ったアイテムの割合)で0.071を記録しました。ランダム推薦の場合は0.005であったため、しっかりユーザの好みに合った映画を推薦できていることが実証できました。<br>
-The score of Precision@30 is 0.071. Because the score of the random recommender system is 0.005, I could demonstrated the improvment by using Item2Vec.
+The score of Precision@30 is 0.071. Because the score of the random recommender system is 0.005, I could demonstrate the improvment by using Item2Vec.
 
 
 
