@@ -2,7 +2,8 @@
 ![Videotogif](https://github.com/Chabuei/movie_recommender/assets/102859047/c7e3f397-1382-47cc-ae3e-b7a9a013feb7)
 
 # URL
-https://main.dn4fsdjjb0uc2.amplifyapp.com/(https://eishinishida.comが故障中のため、仮アドレスを適用しています)
+https://eishinishida.comが故障中のため、仮アドレスを適用しています<br>
+https://main.dn4fsdjjb0uc2.amplifyapp.com/<br>
 
 # Overview
 Word2Vecニューラルネットワークを用いた映画の推薦システム(Item2Vec)<br>
