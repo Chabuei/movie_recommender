@@ -5,12 +5,12 @@
 https://main.dn4fsdjjb0uc2.amplifyapp.com/(https://eishinishida.comが故障中のため、仮アドレスを適用しています)
 
 # Requirement
-※このコードは実際にAWSにホスティングして動かしております。ローカル開発環境では動作するものではありませんので、あらかじめご了承下さい。また、CSSはレスポンシブ対応していないため、PC以外での利用はデザインが崩れる恐れがあります。
-This code is deployed and running on AWS now and then is not for running in local environment. And also, the design of this website is not responsible and couldn't run correctly except pc.
+※このコードは実際にAWSにホスティングして動かしております。ローカル開発環境では動作するものではありませんので、あらかじめご了承下さい。また、CSSはレスポンシブ対応していないため、PC以外での利用はデザインが崩れる恐れがあります。<br>
+This code is deployed and running on AWS now and then is not for running in local environment. And also, the design of this website is not responsible and couldn't run correctly except pc.<br>
 
-Windows 11
-Node.js 16.14.0
-Python 3.9.0
+Windows 11<br>
+Node.js 16.14.0<br>
+Python 3.9.0<br>
 
 #Usage
 1: 映画名検索機能やジャンル検索機能を使ってお好みの映画をクリックしましょう。
